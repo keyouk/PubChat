@@ -1,0 +1,36 @@
+.box {
+	float: left;
+	display: inline-block;
+	overflow: hidden;
+	width: 14em;
+	padding: 20px;
+	background-color:rgb(43, 40, 40);
+	box-shadow:-1px 1px 1px black;
+	color: #fff;
+}
+
+
+.boxSection {
+	height: 50%;
+	overflow: auto;
+}
+
+.title {
+	color: white;
+	display: block;
+	text-decoration: none;
+	margin: 15px;
+}
+
+.text {
+	width: 80%;
+	list-style-type: none;
+	display: block;
+    color: #d2cccc;
+    text-align: left;
+    padding: 6px;
+    text-decoration: none;
+    font-size: 14px;
+    position:relative;
+    margin-left: 20px;
+}
