@@ -1,5 +1,4 @@
-from flask import Flask
-from flask import render_template, redirect, request, url_for
+from flask import Flask, render_template, redirect, request, url_for
 import flask_login
 import models as dbHandler
 import json
